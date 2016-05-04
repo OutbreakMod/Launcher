@@ -128,7 +128,7 @@ namespace OutbreakLauncher
             if (Directory.Exists(FileSettings.GetValue("Path") + "/" + ConfigFile.Read("Mod", "CBA")))
             {
                 statusMAS = true;
-                this.txtCBAA3.ForeColor = System.Drawing.Color.Green;
+                this.txtCBAA3Status.ForeColor = System.Drawing.Color.Green;
                 this.txtCBAA3Status.Text = "Installed";
             }
 

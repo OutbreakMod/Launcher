@@ -27,5 +27,10 @@ namespace OutbreakLauncher
         {
             Process.Start("http://outbreakmod.com/download/@allinarmaterrainpack_2015_01_01.zip.torrent");
         }
+
+        private void ModsNotFound_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -113,9 +113,9 @@
             this.txtWeapons.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtWeapons.Location = new System.Drawing.Point(12, 202);
             this.txtWeapons.Name = "txtWeapons";
-            this.txtWeapons.Size = new System.Drawing.Size(120, 13);
+            this.txtWeapons.Size = new System.Drawing.Size(78, 13);
             this.txtWeapons.TabIndex = 3;
-            this.txtWeapons.Text = "CUP Weapons Installed";
+            this.txtWeapons.Text = "CUP Weapons";
             this.txtWeapons.Click += new System.EventHandler(this.txtMasWeapons_Click);
             // 
             // txtAIATP
@@ -124,16 +124,16 @@
             this.txtAIATP.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtAIATP.Location = new System.Drawing.Point(12, 155);
             this.txtAIATP.Name = "txtAIATP";
-            this.txtAIATP.Size = new System.Drawing.Size(112, 13);
+            this.txtAIATP.Size = new System.Drawing.Size(70, 13);
             this.txtAIATP.TabIndex = 4;
-            this.txtAIATP.Text = "CUP Terrains Installed";
+            this.txtAIATP.Text = "CUP Terrains";
             // 
             // txtVersionStatus
             // 
             this.txtVersionStatus.AutoSize = true;
             this.txtVersionStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtVersionStatus.ForeColor = System.Drawing.Color.Red;
-            this.txtVersionStatus.Location = new System.Drawing.Point(12, 84);
+            this.txtVersionStatus.Location = new System.Drawing.Point(12, 79);
             this.txtVersionStatus.Name = "txtVersionStatus";
             this.txtVersionStatus.Size = new System.Drawing.Size(140, 13);
             this.txtVersionStatus.TabIndex = 5;
@@ -145,7 +145,7 @@
             this.txtWeaponsStatus.AutoSize = true;
             this.txtWeaponsStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtWeaponsStatus.ForeColor = System.Drawing.Color.Red;
-            this.txtWeaponsStatus.Location = new System.Drawing.Point(12, 225);
+            this.txtWeaponsStatus.Location = new System.Drawing.Point(12, 218);
             this.txtWeaponsStatus.Name = "txtWeaponsStatus";
             this.txtWeaponsStatus.Size = new System.Drawing.Size(66, 13);
             this.txtWeaponsStatus.TabIndex = 6;
@@ -156,7 +156,7 @@
             this.txtTerrainStatus.AutoSize = true;
             this.txtTerrainStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTerrainStatus.ForeColor = System.Drawing.Color.Red;
-            this.txtTerrainStatus.Location = new System.Drawing.Point(12, 177);
+            this.txtTerrainStatus.Location = new System.Drawing.Point(12, 173);
             this.txtTerrainStatus.Name = "txtTerrainStatus";
             this.txtTerrainStatus.Size = new System.Drawing.Size(66, 13);
             this.txtTerrainStatus.TabIndex = 7;
@@ -176,7 +176,7 @@
             this.txtCBAA3Status.AutoSize = true;
             this.txtCBAA3Status.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCBAA3Status.ForeColor = System.Drawing.Color.Red;
-            this.txtCBAA3Status.Location = new System.Drawing.Point(12, 132);
+            this.txtCBAA3Status.Location = new System.Drawing.Point(12, 129);
             this.txtCBAA3Status.Name = "txtCBAA3Status";
             this.txtCBAA3Status.Size = new System.Drawing.Size(66, 13);
             this.txtCBAA3Status.TabIndex = 10;
@@ -188,9 +188,9 @@
             this.txtCBAA3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCBAA3.Location = new System.Drawing.Point(12, 110);
             this.txtCBAA3.Name = "txtCBAA3";
-            this.txtCBAA3.Size = new System.Drawing.Size(86, 13);
+            this.txtCBAA3.Size = new System.Drawing.Size(44, 13);
             this.txtCBAA3.TabIndex = 9;
-            this.txtCBAA3.Text = "CBA A3 Installed";
+            this.txtCBAA3.Text = "CBA A3";
             // 
             // Form1
             // 

@@ -37,3 +37,16 @@ C:\Users\Alex\Documents\OutbreakLauncher\OutbreakLauncher\OutbreakLauncher\obj\D
 C:\Users\Alex\Documents\OutbreakLauncher\OutbreakLauncher\OutbreakLauncher\obj\Debug\OutbreakLauncher.SplashScreen.resources
 C:\Users\Alex\Documents\OutbreakLauncher\OutbreakLauncher\OutbreakLauncher\obj\Debug\OutbreakLauncher.VerifyFiles.resources
 C:\Users\Alex\Documents\OutbreakLauncher\OutbreakLauncher\OutbreakLauncher\obj\Debug\OutbreakLauncher.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\Launcher\bin\Debug\OutbreakLauncher.exe.config
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.exe
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.pdb
+C:\Users\Alex\Documents\GitHub\Launcher\bin\Debug\OutbreakLauncher.exe
+C:\Users\Alex\Documents\GitHub\Launcher\bin\Debug\OutbreakLauncher.pdb
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.Form1.resources
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.ModsNotFound.resources
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.Settings.resources
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.SplashScreen.resources
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.VerifyFiles.resources
+C:\Users\Alex\Documents\GitHub\Launcher\obj\Debug\OutbreakLauncher.csproj.GenerateResource.Cache
